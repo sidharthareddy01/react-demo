@@ -1,0 +1,37 @@
+.blue{
+    background-color: violet;
+  }
+  
+  .white{
+    color: whitesmoke;
+  }
+  
+  .button{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 8px;
+  }
+    
+    .button:hover{
+      background-color: lightgreen;
+      color : black;
+      cursor : pointer;
+    }
+
+.buttonRed{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.buttonRed:hover{
+    background-color: salmon;
+    color : black;
+    cursor : pointer;
+  }
